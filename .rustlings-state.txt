@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-enums3
+options3
 
 variables1
 variables2
@@ -14,3 +14,6 @@ move_semantics3
 move_semantics4
 enums1
 enums2
+enums3
+options1
+options2
